@@ -9,7 +9,7 @@
  width: 100vw;
 
  /* background-color: #8ac6d1; */
- background-image: url(/images/bg.jpg);
+ background-image: url(/bg.jpg);
  background-repeat: no-repeat;
  background-size: cover;
  flex-direction: row;
